@@ -27,6 +27,10 @@ h1 h2 {
   color: #231d3c;
 }
 
+h3 {
+  color: var(--text-color);
+}
+
 .logo {
   display: block;
   margin: 30px auto;
