@@ -11,6 +11,7 @@
 body {
   font-family: sans-serif;
   padding: 0 20px;
+  background: var(--background-color);
 }
 
 h1 {
