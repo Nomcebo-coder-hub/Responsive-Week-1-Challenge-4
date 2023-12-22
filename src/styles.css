@@ -5,7 +5,7 @@
     rgb(255, 200, 124) 0%,
     rgb(252, 251, 121) 90%
   );
-  --text-color: #ec1a60;
+  --secondary-color: #ec1a60;
   --border: #ec1a60;
 }
 
@@ -31,7 +31,7 @@ h1 h2 {
 }
 
 h3 {
-  color: var(--text-color);
+  color: var(--secondary-color);
 }
 
 .logo {
